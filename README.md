@@ -1,6 +1,5 @@
-# Redundant-Heads-GPT2
-Beyond Static Activation Patching: Investigating Temporal Prediction Dynamics and Redundant Computational Pathways in GPT-2.
-
+# Testing Backup Circuits
+This repository is a series of understanding how does model perform compensatory computational pathways.
 
 ## Under Exploring Research Work.
 
