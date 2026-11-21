@@ -9,7 +9,8 @@ This repository is a series of understanding how does model perform compensatory
 
 To further seeing the model behavior, feel free to walk on establishing baseline head notebook.
 
-GPT-2 Medium has an important component `L18H9`. It's ablation, actually helps model to behave correctly.
+GPT-2 Medium has an important component `L18H9`. Its ablation, actually improved model behavior.
+
 ![Ablation Head](01_GPT2_Backup_Heads_Baseline/Ablation_impact.png)
 
 
